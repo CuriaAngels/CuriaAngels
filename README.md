@@ -2,7 +2,7 @@
 
 Curia Angels is my maker identity, senior software developer, technical lead, and relentless tinkerer.
 
-I build software, tools, prototypes, and experiments around APIs, AI, automation, modernisation, and practical product engineering, including Discord bots and Android apps. Outside of code, I'm into photography, 3D printing, home labs, and creative technology.
+I build software, tools, prototypes, and experiments around APIs, AI, automation, modernisation, and practical product engineering, including Discord bots and Android apps. Outside of code, I'm into photography, 3D printing, lockpicking, watchmaking, home labs, and creative technology.
 
 ---
 
@@ -76,7 +76,7 @@ UML · XML · Business intelligence · CRM · ITIL · InstallShield (MSI) · Win
 
 ### Hobbies & side interests
 
-Photography · 3D printing and prototyping · Home automation · Linux and self-hosting · Maker projects and electronics · Gaming and creative experiments · AI tools and workflow design
+Photography · 3D printing · Lockpicking · Watchmaking · Home labs · Creative technology · Home automation · Linux and self-hosting · General tinkering · Maker projects and electronics · Gaming and creative experiments · AI tools and workflow design
 
 ---
 
