@@ -2,7 +2,7 @@
 
 Curia Angels is my maker identity, senior software developer, technical lead, and relentless tinkerer.
 
-I build software, tools, prototypes, and experiments around APIs, AI, automation, modernisation, and practical product engineering — including **Discord bots** and **Android** apps. Outside of code, I'm into photography, 3D printing, home labs, and creative technology.
+I build software, tools, prototypes, and experiments around APIs, AI, automation, modernisation, and practical product engineering, including Discord bots and Android apps. Outside of code, I'm into photography, 3D printing, home labs, and creative technology.
 
 ---
 
