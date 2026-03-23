@@ -9,7 +9,7 @@ I build software, tools, prototypes, and experiments around APIs, AI, automation
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geniar/)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/curiaangelslabs)
+
 
 ---
 
