@@ -2,7 +2,7 @@
 
 Curia Angels is my maker identity, senior software developer, technical lead, and relentless tinkerer.
 
-I build software, tools, prototypes, and experiments around APIs, AI, automation, modernisation, and practical product engineering. Outside of code, I'm into photography, 3D printing, home labs, and creative technology.
+I build software, tools, prototypes, and experiments around APIs, AI, automation, modernisation, and practical product engineering — including **Discord bots** and **Android** apps. Outside of code, I'm into photography, 3D printing, home labs, and creative technology.
 
 ---
 
@@ -25,6 +25,8 @@ I build software, tools, prototypes, and experiments around APIs, AI, automation
 - Requirements analysis, business analysis, and customer-facing technical delivery  
 - Database design, optimisation, and data platforms  
 - Technical ownership, solution design, security, stability, and performance  
+- Discord bot development (integrations, commands, hosting patterns)  
+- Android development (mobile apps, Kotlin-first)  
 - Maker projects and rapid prototyping  
 
 ---
@@ -35,6 +37,7 @@ I build software, tools, prototypes, and experiments around APIs, AI, automation
 [![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/languages/visual-basic)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
@@ -57,6 +60,7 @@ I build software, tools, prototypes, and experiments around APIs, AI, automation
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Discord](https://img.shields.io/badge/Discord%20bots-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/developers)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![AWX](https://img.shields.io/badge/AWX-EE0000?style=flat&logo=ansible&logoColor=white)](https://github.com/ansible/awx)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)](https://yaml.org/)
